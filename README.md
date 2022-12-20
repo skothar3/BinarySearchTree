@@ -1,1 +1,2 @@
 # BinarySearchTree
+This project reinforces our lesson on binary search and binary search trees. I built a binary search tree class that takes an unsorted array of node objects and returns a balanced binary tree. Additionally, the tree has methods for inserting, deleting, and finding elements as well as traversal methods of level order, inorder, preorder and post order. Finally, it also rebalances the tree after elements have been added or deleted.
